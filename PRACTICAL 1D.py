@@ -1,0 +1,19 @@
+INTEGER_VALUE = 25
+FLOAT_VALUE = 12.5
+STRING_VALUE = "HELLO PYTHON"
+BOOLEAN_VALUE = True
+
+#DISPLAYING VALUES AND THEIR TYPES
+print("INTEGER VALUE:",INTEGER_VALUE)
+print("TYPE:", type(INTEGER_VALUE))
+
+print("FLOAT VALUE:",FLOAT_VALUE)
+print("TYPE:", type(FLOAT_VALUE))
+
+print("STRING VALUE:",STRING_VALUE)
+print("TYPE:", type(STRING_VALUE))
+
+print("BOOLEAN VALUE:",BOOLEAN_VALUE)
+print("TYPE:", type(BOOLEAN_VALUE))                    
+       
+                    
